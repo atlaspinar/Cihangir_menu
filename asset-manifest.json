@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cihangir_menu/static/css/main.e317e81b.css",
-    "main.js": "/cihangir_menu/static/js/main.78320cdc.js",
+    "main.css": "/cihangir_menu/static/css/main.59325a77.css",
+    "main.js": "/cihangir_menu/static/js/main.d2f8a207.js",
     "static/js/787.e3256bba.chunk.js": "/cihangir_menu/static/js/787.e3256bba.chunk.js",
     "static/media/tavuk_bowl.jpg": "/cihangir_menu/static/media/tavuk_bowl.d6cedbab5e9d2457d3aa.jpg",
     "static/media/burger.jpg": "/cihangir_menu/static/media/burger.a26c7404f9d65b541315.jpg",
@@ -9,12 +9,12 @@
     "static/media/somon_bowl.jpg": "/cihangir_menu/static/media/somon_bowl.3be24a982114a39d2eb9.jpg",
     "static/media/logo.jpg": "/cihangir_menu/static/media/logo.58772a5408c224f47266.jpg",
     "index.html": "/cihangir_menu/index.html",
-    "main.e317e81b.css.map": "/cihangir_menu/static/css/main.e317e81b.css.map",
-    "main.78320cdc.js.map": "/cihangir_menu/static/js/main.78320cdc.js.map",
+    "main.59325a77.css.map": "/cihangir_menu/static/css/main.59325a77.css.map",
+    "main.d2f8a207.js.map": "/cihangir_menu/static/js/main.d2f8a207.js.map",
     "787.e3256bba.chunk.js.map": "/cihangir_menu/static/js/787.e3256bba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e317e81b.css",
-    "static/js/main.78320cdc.js"
+    "static/css/main.59325a77.css",
+    "static/js/main.d2f8a207.js"
   ]
 }
