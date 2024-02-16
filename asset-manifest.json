@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cihangir_menu/static/css/main.59325a77.css",
-    "main.js": "/cihangir_menu/static/js/main.8fe8d212.js",
+    "main.js": "/cihangir_menu/static/js/main.40f93a28.js",
     "static/js/787.e3256bba.chunk.js": "/cihangir_menu/static/js/787.e3256bba.chunk.js",
     "static/media/fajita.jpg": "/cihangir_menu/static/media/fajita.6cec6827c6b93eec2d16.jpg",
     "static/media/bonfile.jpg": "/cihangir_menu/static/media/bonfile.631b06e36769afdadc1b.jpg",
-    "static/media/atistirmalik.jpeg": "/cihangir_menu/static/media/atistirmalik.0ce96cc7cde526524941.jpeg",
     "static/media/kozde_tavuk.jpg": "/cihangir_menu/static/media/kozde_tavuk.5f20f7d351811d475e7b.jpg",
     "static/media/kozde_et.jpg": "/cihangir_menu/static/media/kozde_et.750afbe53c0d77316b41.jpg",
     "static/media/alinazik.jpg": "/cihangir_menu/static/media/alinazik.056ad083cac432daddac.jpg",
     "static/media/makarna.jpg": "/cihangir_menu/static/media/makarna.5861296f27d3bacacddc.jpg",
     "static/media/meyve.jpg": "/cihangir_menu/static/media/meyve.b5abab3437389bfd9093.jpg",
+    "static/media/atistirmalik.jpg": "/cihangir_menu/static/media/atistirmalik.adc0c993f9089099a47b.jpg",
     "static/media/kori.png": "/cihangir_menu/static/media/kori.9ee90b5dd8637ee703b1.png",
     "static/media/burger.jpg": "/cihangir_menu/static/media/burger.a26c7404f9d65b541315.jpg",
     "static/media/kofte.jpg": "/cihangir_menu/static/media/kofte.ae93048353c34c866620.jpg",
@@ -20,11 +20,11 @@
     "static/media/sac_tava.jpg": "/cihangir_menu/static/media/sac_tava.5d92ce4a10fb7661c8b4.jpg",
     "index.html": "/cihangir_menu/index.html",
     "main.59325a77.css.map": "/cihangir_menu/static/css/main.59325a77.css.map",
-    "main.8fe8d212.js.map": "/cihangir_menu/static/js/main.8fe8d212.js.map",
+    "main.40f93a28.js.map": "/cihangir_menu/static/js/main.40f93a28.js.map",
     "787.e3256bba.chunk.js.map": "/cihangir_menu/static/js/787.e3256bba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59325a77.css",
-    "static/js/main.8fe8d212.js"
+    "static/js/main.40f93a28.js"
   ]
 }
