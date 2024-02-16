@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cihangir_menu/static/css/main.59325a77.css",
-    "main.js": "/cihangir_menu/static/js/main.40f93a28.js",
+    "main.css": "/cihangir_menu/static/css/main.bc0bb26e.css",
+    "main.js": "/cihangir_menu/static/js/main.627fe095.js",
     "static/js/787.e3256bba.chunk.js": "/cihangir_menu/static/js/787.e3256bba.chunk.js",
     "static/media/fajita.jpg": "/cihangir_menu/static/media/fajita.6cec6827c6b93eec2d16.jpg",
     "static/media/bonfile.jpg": "/cihangir_menu/static/media/bonfile.631b06e36769afdadc1b.jpg",
@@ -19,12 +19,12 @@
     "static/media/logo.jpg": "/cihangir_menu/static/media/logo.58772a5408c224f47266.jpg",
     "static/media/sac_tava.jpg": "/cihangir_menu/static/media/sac_tava.5d92ce4a10fb7661c8b4.jpg",
     "index.html": "/cihangir_menu/index.html",
-    "main.59325a77.css.map": "/cihangir_menu/static/css/main.59325a77.css.map",
-    "main.40f93a28.js.map": "/cihangir_menu/static/js/main.40f93a28.js.map",
+    "main.bc0bb26e.css.map": "/cihangir_menu/static/css/main.bc0bb26e.css.map",
+    "main.627fe095.js.map": "/cihangir_menu/static/js/main.627fe095.js.map",
     "787.e3256bba.chunk.js.map": "/cihangir_menu/static/js/787.e3256bba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59325a77.css",
-    "static/js/main.40f93a28.js"
+    "static/css/main.bc0bb26e.css",
+    "static/js/main.627fe095.js"
   ]
 }
